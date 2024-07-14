@@ -5,4 +5,5 @@
     type: "world"
     developer: "sennome"
     preview: "assets/logo.png"
+    website: "https://github.com/Smart-Alec/roman_names"
 }

@@ -4,5 +4,6 @@ return {
   version = "0.0.1",
   type = "world",
   developer = "sennome",
-  preview = "assets/logo.png"
+  preview = "assets/logo.png",
+  website = "https://github.com/Smart-Alec/roman_names"
 }
